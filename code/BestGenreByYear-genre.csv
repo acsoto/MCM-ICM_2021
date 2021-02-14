@@ -1,0 +1,21 @@
+,1960,1930,1950,1970,1940,1980,1990,2000,2010
+1,Folk,Jazz,Blues,R&B;,International,Pop/Rock,Pop/Rock,Pop/Rock,Pop/Rock
+2,Country,Vocal,Folk,International,Vocal,Electronic,Religious,Country,Electronic
+3,International,Folk,Country,Blues,Jazz,Unknown,Country,R&B;,R&B;
+4,Pop/Rock,Stage & Screen,Vocal,Pop/Rock,Folk,Latin,R&B;,Electronic,Country
+5,Vocal,Blues,Latin,Electronic,Blues,R&B;,Electronic,Religious,Latin
+6,R&B;,Country,International,Reggae,Classical,Religious,Latin,Latin,Religious
+7,Latin,Latin,Pop/Rock,Country,Easy Listening,Reggae,Reggae,Reggae,Easy Listening
+8,Classical,Classical,R&B;,Jazz,Country,Country,Easy Listening,Vocal,Classical
+9,Easy Listening,Religious,Children's,Unknown,R&B;,Classical,International,Comedy/Spoken,
+10,Jazz,Easy Listening,Jazz,Latin,Latin,Comedy/Spoken,Comedy/Spoken,Stage & Screen,
+11,Religious,Comedy/Spoken,Easy Listening,Avant-Garde,Stage & Screen,Stage & Screen,Classical,Jazz,
+12,Stage & Screen,International,Avant-Garde,New Age,Reggae,Jazz,Vocal,Folk,
+13,Avant-Garde,R&B;,Classical,Vocal,Pop/Rock,New Age,Blues,Avant-Garde,
+14,Blues,Pop/Rock,Stage & Screen,Folk,Religious,International,New Age,International,
+15,Reggae,,Religious,Classical,Avant-Garde,Folk,Children's,New Age,
+16,Comedy/Spoken,,Comedy/Spoken,Children's,Comedy/Spoken,Blues,Stage & Screen,,
+17,Electronic,,Reggae,Comedy/Spoken,,Vocal,Jazz,,
+18,New Age,,,Stage & Screen,,,Avant-Garde,,
+19,,,,Easy Listening,,,Folk,,
+20,,,,Religious,,,,,
